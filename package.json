@@ -7,6 +7,6 @@
     },
     "dependencies": {
         "node-webpipe": "0.0.1",
-        "jsdom": "0.2.19",
+        "jsdom": "0.2.19"
     }
 }
